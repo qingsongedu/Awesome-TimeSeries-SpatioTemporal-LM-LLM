@@ -16,6 +16,7 @@ For general **AI for Time Series (AI4TS)** Papers, Tutorials, and Surveys at the
 
 
 ## LLM/LM/FM Papers for Time Series
+* Voice2Series: Reprogramming Acoustic Models for Time Series Classification [\[paper\]](https://arxiv.org/abs/2106.09296) [\[official code\]](https://github.com/huckiyang/Voice2Series-Reprogramming)
 * One Fits All: Power General Time Series Analysis by Pretrained LM, in *arXiv* 2023. [\[paper\]](https://arxiv.org/abs/2302.11939) 
 * Large Language Models are Few-Shot Health Learners, in *arXiv* 2023. [\[paper\]](https://arxiv.org/abs/2305.15525)
 
@@ -40,7 +41,7 @@ For general **AI for Time Series (AI4TS)** Papers, Tutorials, and Surveys at the
 * Awesome LLMOps. [\[link\]](https://github.com/tensorchord/Awesome-LLMOps)
 
 [\[paper\]]() [\[link\]]()
-## Related Survey Papers for Time Series and AIOps
+## Related Surveys for Time Series and AIOps
 #### Surveys of Time Series
 * Transformers in Time Series: A Survey, in *IJCAI* 2023. [\[paper\]](https://arxiv.org/abs/2202.07125) [\[GitHub Repo\]](https://github.com/qingsongedu/time-series-transformers-review)
 * Time series data augmentation for deep learning: a survey, in *IJCAI* 2021. [\[paper\]](https://arxiv.org/abs/2002.12478)
@@ -54,7 +55,7 @@ For general **AI for Time Series (AI4TS)** Papers, Tutorials, and Surveys at the
 * AI for IT Operations (AIOps) on Cloud Platforms: Reviews, Opportunities and Challenges, in *arXiv* 2023. [\[paper\]](https://arxiv.org/abs/2304.04661)
 
 ## Citation
-#### If you find this repository helpful for your work, please kindly cite our survey paper.
+#### If you find this repository helpful for your work, please kindly cite:
 
 ```bibtex
 @misc{wen2023llmfortimeseriesaiops,
