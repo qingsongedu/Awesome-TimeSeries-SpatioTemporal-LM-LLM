@@ -7,7 +7,7 @@
 <!-- ![Forks](https://img.shields.io/github/forks/qingsongedu/Awesome-TimeSeries-AIOps-LM-LLM) -->
 
 
-A professionally curated list of **Large (Language) Models and Foundation Models (LLM, LM, FM) for Time Series and/or AIOps** with awesome resources (paper, code, data, etc.), which aims to comprehensively and systematically summarize the recent advances to the best of our knowledge.
+A professionally curated list of **Large (Language) Models and Foundation Models (LLM, LM, FM) for Temporal Data (Time Series, Spatiotemporal, and Event Data) and AIOps** with awesome resources (paper, code, data, etc.), which aims to comprehensively and systematically summarize the recent advances to the best of our knowledge.
 
 We will continue to update this list with newest resources. If you found any missed resources (paper/code) or errors, please feel free to open an issue or make a pull request.
 
