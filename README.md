@@ -28,19 +28,18 @@ For general **AI for Time Series (AI4TS)** Papers, Tutorials, and Surveys at the
 
 
 
-[\[paper\]]() [\[link\]]()
+
 ## Related LLM/LM/FM Resources
-#### Surveys
+#### Survey
 * A Survey of Large Language Models, in *arXiv* 2023. [\[paper\]](https://arxiv.org/abs/2303.18223) [\[link\]](https://github.com/RUCAIBox/LLMSurvey)
 * Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond, in *arXiv* 2023. [\[paper\]](https://arxiv.org/abs/2304.13712) [\[link\]](https://github.com/Mooler0410/LLMsPracticalGuide)  
-* 
 
 #### Github
 * Awesome LLM. [\[link\]](https://github.com/Hannibal046/Awesome-LLM)
 * Open LLMs. [\[link\]](https://github.com/eugeneyan/open-llms)
 * Awesome LLMOps. [\[link\]](https://github.com/tensorchord/Awesome-LLMOps)
 
-
+[\[paper\]]() [\[link\]]()
 ## Related Survey Papers for Time Series and AIOps
 #### Surveys of Time Series
 * Transformers in Time Series: A Survey, in *IJCAI* 2023. [\[paper\]](https://arxiv.org/abs/2202.07125) [\[GitHub Repo\]](https://github.com/qingsongedu/time-series-transformers-review)
