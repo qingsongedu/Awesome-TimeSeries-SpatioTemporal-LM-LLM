@@ -45,6 +45,7 @@ For general **AI for Time Series (AI4TS)** Papers, Tutorials, and Surveys at the
 * Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond, in *arXiv* 2023. [\[paper\]](https://arxiv.org/abs/2304.13712) [\[link\]](https://github.com/Mooler0410/LLMsPracticalGuide)  
 * LLM-Adapters: An Adapter Family for Parameter-Efficient Fine-Tuning of Large Language Models, in *arXiv* 2023. [\[paper\]](https://arxiv.org/abs/2304.01933) [\[link\]](https://github.com/AGI-Edgerunners/LLM-Adapters)
 * Beyond One-Model-Fits-All: A Survey of Domain Specialization for Large Language Models, in *arXiv* 2023. [\[paper\]](https://arxiv.org/abs/2305.18703)
+* Large AI Models in Health Informatics: Applications, Challenges, and the Future, in *arXiv* 2023. [\[paper\]](https://arxiv.org/abs/2303.11568) [\[link\]](https://github.com/Jianing-Qiu/Awesome-Healthcare-Foundation-Models)
 
 #### Github
 * Awesome LLM. [\[link\]](https://github.com/Hannibal046/Awesome-LLM)
