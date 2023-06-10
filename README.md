@@ -1,4 +1,4 @@
-# Large (Language) Models and Foundation Models (LLM, LM, FM) for Time Series and/or AIOps
+# Large (Language) Models and Foundation Models (LLM, LM, FM) for Time Series and AIOps
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
 ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green) 
@@ -55,6 +55,7 @@ For general **AI for Time Series (AI4TS)** Papers, Tutorials, and Surveys at the
 * Awesome LLMOps. [\[link\]](https://github.com/tensorchord/Awesome-LLMOps)
 * Awesome Foundation Models. [\[link\]](https://github.com/uncbiag/Awesome-Foundation-Models)
 * Awesome Graph LLM. [\[link\]](https://github.com/XiaoxinHe/Awesome-Graph-LLM)
+* Awesome Multimodal Large Language Models. [\[link\]](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)
 
 [\[paper\]]() [\[link\]]()
 ## Related Surveys
