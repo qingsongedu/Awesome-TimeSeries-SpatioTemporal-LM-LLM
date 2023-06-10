@@ -28,6 +28,8 @@ For general **AI for Time Series (AI4TS)** Papers, Tutorials, and Surveys at the
 * Recommending Root-Cause and Mitigation Steps for Cloud Incidents using Large Language Models, in *arXiv* 2023. [\[paper\]](https://arxiv.org/abs/2301.03797)
 
 
+## Pre-trained Models for Time Series and AIOps
+
 
 
 ## Related LLM/LM/FM Resources
@@ -41,13 +43,14 @@ For general **AI for Time Series (AI4TS)** Papers, Tutorials, and Surveys at the
 * Awesome LLMOps. [\[link\]](https://github.com/tensorchord/Awesome-LLMOps)
 
 [\[paper\]]() [\[link\]]()
-## Related Surveys for Time Series and AIOps
+## Related Surveys
 #### Surveys of Time Series
 * Transformers in Time Series: A Survey, in *IJCAI* 2023. [\[paper\]](https://arxiv.org/abs/2202.07125) [\[GitHub Repo\]](https://github.com/qingsongedu/time-series-transformers-review)
 * Time series data augmentation for deep learning: a survey, in *IJCAI* 2021. [\[paper\]](https://arxiv.org/abs/2002.12478)
 * Time-series forecasting with deep learning: a survey, in *Philosophical Transactions of the Royal Society A* 2021. [\[paper\]](https://royalsocietypublishing.org/doi/full/10.1098/rsta.2020.0209)
 * A review on outlier/anomaly detection in time series data, in *CSUR* 2021. [\[paper\]](https://arxiv.org/abs/2002.04236)
 * Deep learning for time series classification: a review, in *Data Mining and Knowledge Discovery* 2019. [\[paper\]](https://link.springer.com/article/10.1007/s10618-019-00619-1?sap-outbound-id=11FC28E054C1A9EB6F54F987D4B526A6EE3495FD&mkt-key=005056A5C6311EE999A3A1E864CDA986)
+* A Survey on Time-Series Pre-Trained Models, in *arXiv* 2023. [\[paper\]](https://arxiv.org/abs/2305.10716) [\[link\]](https://github.com/qianlima-lab/time-series-ptms)
 
 #### Surveys of AIOps
 * AIOps: real-world challenges and research innovations, in *ICSE* 2019. [\[paper\]](https://web.eecs.umich.edu/~ryanph/paper/aiops-icse19-briefing.pdf)
