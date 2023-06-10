@@ -16,10 +16,11 @@ For general **AI for Time Series (AI4TS)** Papers, Tutorials, and Surveys at the
 
 
 ## LLM/LM/FM Papers for Time Series
-#### Common Time Series Analysis 
+#### Common Time Series and Event Analysis 
 * Voice2Series: Reprogramming Acoustic Models for Time Series Classification [\[paper\]](https://arxiv.org/abs/2106.09296) [\[official code\]](https://github.com/huckiyang/Voice2Series-Reprogramming)
 * One Fits All: Power General Time Series Analysis by Pretrained LM, in *arXiv* 2023. [\[paper\]](https://arxiv.org/abs/2302.11939) 
 * Large Language Models are Few-Shot Health Learners, in *arXiv* 2023. [\[paper\]](https://arxiv.org/abs/2305.15525)
+* Language Models Can Improve Event Prediction by Few-Shot Abductive Reasoning, in *Arxiv* 2023, [\[paper\]](https://arxiv.org/abs/2305.16646), [\[official-code\]](https://github.com/iLampard/ep_llm)
 
 
 #### Weather Forecasting
