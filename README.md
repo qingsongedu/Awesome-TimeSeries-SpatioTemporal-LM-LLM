@@ -47,6 +47,7 @@ For general **AI for Time Series (AI4TS)** Papers, Tutorials, and Surveys at the
 * LLM-Adapters: An Adapter Family for Parameter-Efficient Fine-Tuning of Large Language Models, in *arXiv* 2023. [\[paper\]](https://arxiv.org/abs/2304.01933) [\[link\]](https://github.com/AGI-Edgerunners/LLM-Adapters)
 * Beyond One-Model-Fits-All: A Survey of Domain Specialization for Large Language Models, in *arXiv* 2023. [\[paper\]](https://arxiv.org/abs/2305.18703)
 * Large AI Models in Health Informatics: Applications, Challenges, and the Future, in *arXiv* 2023. [\[paper\]](https://arxiv.org/abs/2303.11568) [\[link\]](https://github.com/Jianing-Qiu/Awesome-Healthcare-Foundation-Models)
+* FinGPT: Open-Source Financial Large Language Models, in *arXiv* 2023. [\[paper\]](https://arxiv.org/abs/2306.06031) [\[link\]](https://github.com/AI4Finance-Foundation/FinGPT) 
 * On the Opportunities and Challenges of Foundation Models for Geospatial Artificial Intelligence, in *arXiv* 2023. [\[paper\]](https://arxiv.org/abs/2304.06798)
 
 #### Github
