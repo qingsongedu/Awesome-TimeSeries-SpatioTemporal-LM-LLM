@@ -67,6 +67,8 @@ For general **AI for Time Series (AI4TS)** Papers, Tutorials, and Surveys at the
 * A review on outlier/anomaly detection in time series data, in *CSUR* 2021. [\[paper\]](https://arxiv.org/abs/2002.04236)
 * Deep learning for time series classification: a review, in *Data Mining and Knowledge Discovery* 2019. [\[paper\]](https://link.springer.com/article/10.1007/s10618-019-00619-1?sap-outbound-id=11FC28E054C1A9EB6F54F987D4B526A6EE3495FD&mkt-key=005056A5C6311EE999A3A1E864CDA986)
 * A Survey on Time-Series Pre-Trained Models, in *arXiv* 2023. [\[paper\]](https://arxiv.org/abs/2305.10716) [\[link\]](https://github.com/qianlima-lab/time-series-ptms)
+* Self-Supervised Learning for Time Series Analysis: Taxonomy, Progress, and Prospects, in *arXiv* 2023. [\[paper\]](https://arxiv.org/abs/2306.10125) [\[Website\]](https://github.com/qingsongedu/Awesome-SSL4TS)
+* A Survey on Graph Neural Networks for Time Series: Forecasting, Classification, Imputation, and Anomaly Detection, in *arXiv* 2023. [\[paper\]]([https://arxiv.org/abs/2306.10125](https://arxiv.org/abs/2307.03759)) [\[Website\]](https://github.com/KimMeen/Awesome-GNN4TS)
 
 #### Surveys of AIOps
 * AIOps: real-world challenges and research innovations, in *ICSE* 2019. [\[paper\]](https://web.eecs.umich.edu/~ryanph/paper/aiops-icse19-briefing.pdf)
