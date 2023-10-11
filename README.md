@@ -1,4 +1,5 @@
-# Large (Language) Models and Foundation Models (LLM, LM, FM) for Time Series and AIOps
+# Large (Language) Models and Foundation Models (LLM, LM, FM) for Time Series and SpatioTemporal Data
+
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
 ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green) 
@@ -7,9 +8,9 @@
 <!-- ![Forks](https://img.shields.io/github/forks/qingsongedu/Awesome-TimeSeries-AIOps-LM-LLM) -->
 
 
-A professionally curated list of **Large (Language) Models and Foundation Models (LLM, LM, FM) for Temporal Data (Time Series, Spatiotemporal, and Event Data) and AIOps** with awesome resources (paper, code, data, etc.), which aims to comprehensively and systematically summarize the recent advances to the best of our knowledge.
+A professionally curated list of **Large (Language) Models and Foundation Models (LLM, LM, FM) for Temporal Data (Time Series, Spatiotemporal, and Event Data)** with awesome resources (paper, code, data, etc.), which aims to comprehensively and systematically summarize the recent advances to the best of our knowledge.
 
-We will continue to update this list with newest resources. If you found any missed resources (paper/code) or errors, please feel free to open an issue or make a pull request.
+We will continue to update this list with the newest resources. If you find any missed resources (paper/code) or errors, please feel free to open an issue or make a pull request.
 
 For general **AI for Time Series (AI4TS)** Papers, Tutorials, and Surveys at the **Top AI Conferences and Journals**, please check [This Repo](https://github.com/qingsongedu/awesome-AI-for-time-series-papers). 
 
@@ -80,7 +81,7 @@ For general **AI for Time Series (AI4TS)** Papers, Tutorials, and Surveys at the
 
 ```bibtex
 @misc{wen2023llmfortimeseriesaiops,
-  title={Awesome-TimeSeries-AIOps-LM-LLM},
+  title={Awesome-TimeSeries-SpatioTemporal-LM-LLM},
   author={Wen, Qingsong},
   journal = {GitHub repository},
   year={2023}
