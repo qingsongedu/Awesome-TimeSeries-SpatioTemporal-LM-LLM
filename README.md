@@ -16,13 +16,51 @@ For general **AI for Time Series (AI4TS)** Papers, Tutorials, and Surveys at the
 
 
 
-## LLM/LM/FM Papers for Time Series
-#### Common Time Series and Event Analysis 
-* Voice2Series: Reprogramming Acoustic Models for Time Series Classification, in *ICML* 2021. [\[paper\]](https://arxiv.org/abs/2106.09296) [\[official code\]](https://github.com/huckiyang/Voice2Series-Reprogramming)
-* One Fits All: Power General Time Series Analysis by Pretrained LM, in *arXiv* 2023. [\[paper\]](https://arxiv.org/abs/2302.11939) 
+## LLMs for Time Series
+#### General Time Series Analysis
+* PromptCast: A New Prompt-based Learning Paradigm for Time Series Forecasting, in *arXiv* 2023. [\[paper\]](https://arxiv.org/abs/2210.08964)
+* One Fits All:Power General Time Series Analysis by Pretrained LM, in *NeurIPS* 2023, [\[paper\]](https://arxiv.org/abs/2302.11939) [\[official code\]](https://github.com/DAMO-DI-ML/NeurIPS2023-One-Fits-All)
+* Time-LLM: Time Series Forecasting by Reprogramming Large Language Models, in *arXiv* 2023, [\[paper\]](https://arxiv.org/abs/2310.01728)
+* LLM4TS: Two-Stage Fine-Tuning for Time-Series Forecasting with Pre-Trained LLMs, in *arXiv* 2023, [\[paper\]](https://arxiv.org/abs/2308.08469)
+#### Transportation Application
+* Leveraging Language Foundation Models for Human Mobility Forecasting, in *SIGSPATIAL* 2022, [\[paper\]](https://arxiv.org/abs/2209.05479)
+#### Finance Application
+* Temporal Data Meets LLM -- Explainable Financial Time Series Forecasting, in *arXiv* 2023, [\[paper\]](https://arxiv.org/abs/2306.11025)
+* BloombergGPT: A Large Language Model for Finance, in *arXiv* 2023, [\[paper\]](https://arxiv.org/abs/2303.17564)
+* WeaverBird: Empowering Financial Decision-Making with Large Language Model, Knowledge Base, and Search Engine, in *arXiv* 2023, [\[paper\]](https://arxiv.org/abs/2308.05361)
+* Can ChatGPT Forecast Stock Price Movements? Return Predictability and Large Language Models, in *arXiv* 2023, [\[paper\]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4412788)
+* Instruct-FinGPT: Financial Sentiment Analysis by Instruction Tuning of General-Purpose Large Language Models, in *arXiv* 2023, [\[paper\]](https://arxiv.org/abs/2306.12659)
+* The Wall Street Neophyte: A Zero-Shot Analysis of ChatGPT Over MultiModal Stock Movement Prediction Challenges, in *arXiv* 2023, [\[paper\]](https://arxiv.org/abs/2304.05351)
+
+#### Healthcare Application 
+* Health system-scale language models are all-purpose prediction engines, in *Nature* 2023, [\[paper\]](https://www.nature.com/articles/s41586-023-06160-y)
+* A large language model for electronic health records, in *NPJ Digit. Med.* 2022, [\[paper\]](https://www.nature.com/articles/s41746-022-00742-2)
 * Large Language Models are Few-Shot Health Learners, in *arXiv* 2023. [\[paper\]](https://arxiv.org/abs/2305.15525)
+#### Event Analysis
+* Language models can improve event prediction by few-shot abductive reasoning, in *NeurIPS* 2023, [\[paper\]](https://arxiv.org/abs/2305.16646)
+* Drafting Event Schemas using Language Models, in *arXiv* 2023, [\[paper\]](https://arxiv.org/abs/2305.14847)
 * Language Models Can Improve Event Prediction by Few-Shot Abductive Reasoning, in *NeurIPS* 2023, [\[paper\]](https://arxiv.org/abs/2305.16646), [\[official-code\]](https://github.com/iLampard/ep_llm)
 
+
+
+## PFMs for Time Series  
+##### General Time Series Analysis
+* Voice2Series: Reprogramming Acoustic Models for Time Series Classification, in *ICML* 2021. [\[paper\]](https://arxiv.org/abs/2106.09296) [\[official code\]](https://github.com/huckiyang/Voice2Series-Reprogramming)
+* Self-Supervised Contrastive Pre-Training For Time Series via Time-Frequency Consistency, in *NeurIPS* 2022, [\[paper\]](https://arxiv.org/abs/2206.08496) [\[official code\]](https://github.com/mims-harvard/TFC-pretraining)
+* MTSMAE: Masked Autoencoders for Multivariate Time-Series Forecasting, in *arXiv* 2022, [\[paper\]](https://arxiv.org/pdf/2210.02199.pdf)
+* Pre-training Enhanced Spatial-temporal Graph Neural Network for Multivariate Time Series Forecasting, in *KDD* 2022, [\[paper\]](https://arxiv.org/abs/2206.09113)
+* TS2Vec: Towards Universal Representation of Time Series, in *AAAI* 2022, [\[paper\]](https://arxiv.org/abs/2106.10466) [\[official code\]](https://github.com/yuezhihan/ts2vec)
+* SimMTM: A Simple Pre-Training Framework for Masked Time-Series Modeling, in *arXiv* 2023, [\[paper\]](https://arxiv.org/abs/2302.00861)
+* A Time Series is Worth 64 Words: Long-term Forecasting with Transformers, in *ICLR* 2023, [\[paper\]](https://arxiv.org/abs/2211.14730) [\[official code\]](https://github.com/yuqinie98/PatchTST)
+* Contrastive Learning for Unsupervised Domain Adaptation of Time Series, in *ICLR* 2023, [\[paper\]](https://arxiv.org/abs/2206.06243)
+* TSMixer: Lightweight MLP-Mixer Model for Multivariate Time Series Forecasting, in *KDD* 2023, [\[paper\]](https://arxiv.org/abs/2306.09364)
+#### Event Analysis 
+* Prompt-augmented Temporal Point Process for Streaming Event Sequence, in *NeurIPS* 2023, [\[paper\]](https://arxiv.org/pdf/2310.04993.pdf) [\[official code\]](https://github.com/yanyanSann/PromptTPP)
+* 
+
+
+
+#### 
 
 #### Weather Forecasting
 * ClimaX: A foundation model for weather and climate, in *ICML* 2023. [\[paper\]](https://arxiv.org/abs/2301.10343) [\[official code\]](https://github.com/microsoft/ClimaX)
@@ -35,10 +73,6 @@ For general **AI for Time Series (AI4TS)** Papers, Tutorials, and Surveys at the
 ## LLM/LM/FM Papers for AIOps
 * Empowering Practical Root Cause Analysis by Large Language Models for Cloud Incidents, in *arXiv* 2023. [\[paper\]](https://arxiv.org/abs/2305.15778)
 * Recommending Root-Cause and Mitigation Steps for Cloud Incidents using Large Language Models, in *arXiv* 2023. [\[paper\]](https://arxiv.org/abs/2301.03797)
-
-
-## Pre-trained Models for Time Series and AIOps
-* 
 
 
 ## Related LLM/LM/FM Resources
