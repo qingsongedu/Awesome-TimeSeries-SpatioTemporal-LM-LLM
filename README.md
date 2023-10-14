@@ -95,7 +95,64 @@ For general **AI for Time Series (AI4TS)** Papers, Tutorials, and Surveys at the
 * Awesome Graph LLM. [\[link\]](https://github.com/XiaoxinHe/Awesome-Graph-LLM)
 * Awesome Multimodal Large Language Models. [\[link\]](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)
 
-[\[paper\]]() [\[link\]]()
+#### Datasets
+##### Traffic Application
+METR-LA [\[link\]](https://zenodo.org/record/5146275) 
+PEMS-BAY [\[link\]](https://zenodo.org/record/5146275)
+PEMS04 [\[link\]](https://github.com/Davidham3/ASTGCN)
+SUTD-TrafficQA [\[link\]](https://github.com/sutdcv/SUTD-TrafficQA)
+TaxiBJ [\link\]](https://github.com/TolicWang/DeepST/tree/master/data/TaxiBJ)
+BikeNYC [\[link\]](https://citibikenyc.com/system-data)
+TaxiNYC [\[link\]](https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page)
+Mobility [\[link\]](https://github.com/gmu-ggs-nsf-abm-research/mobility-trends)
+LargeST [\[link\]](https://github.com/liuxu77/LargeST)
+
+##### Healthcare Application
+PTB-XL [\[link\]](https://physionet.org/content/ptb-xl/1.0.3/)
+NYUTron [\[link\]](https://datacatalog.med.nyu.edu/dataset/10633)
+UF Health clinical corpus [\[link\]](https://catalog.ngc.nvidia.com/orgs/nvidia/teams/clara/models/gatortron_og)
+i2b2-2012 [\[link\]](https://www.i2b2.org/NLP/TemporalRelations/)
+MIMIC-III [\[link\]](https://physionet.org/content/mimiciii/1.4/)
+CirCor DigiScope [\[link\]](https://physionet.org/content/circor-heart-sound/1.0.3/)
+
+##### Weather Application
+SEVIR [\[link\]](https://registry.opendata.aws/sevir/)
+Shifts-Weather Prediction [\[link\]](https://github.com/Shifts-Project/shifts)
+AvePRE [\[link\]](https://disc.gsfc.nasa.gov/)
+SurTEMP [\[link\]](https://disc.gsfc.nasa.gov/)
+SurUPS [\[link\]](https://disc.gsfc.nasa.gov/)
+ERA5 reanalysis data [\[link\]](https://github.com/pangeo-data/WeatherBench)
+CMIP6 [\[link\]](https://cds.climate.copernicus.eu/cdsapp\#!/dataset/projections-cmip6?tab=overview)
+
+##### Finance Application
+Finance (Employment) [\[link\]](https://github.com/ashfarhangi/AA-Forecast/tree/main/dataset)
+StockNet [\[link\]](https://github.com/yumoxu/stocknet-dataset)
+EDT [\[link\]](https://github.com/Zhihan1996/TradeTheEvent/tree/main/data\#edt-dataset)
+NASDAQ-100 [\[link\]](https://cseweb.ucsd.edu/~yaq007/NASDAQ100_stock_data.html)
+
+##### Video Application
+TGIF-QA [\[link\]](https://github.com/YunseokJANG/tgif-qa)
+MSR-VTT [\[link\]](https://drive.google.com/file/d/1pWym3bMNW_WrOZCi5Ls-wKFpaPMbLOio/view)
+WebVid [\[link\]](https://maxbain.com/webvid-dataset/)
+MSVD [\[link\]](https://www.microsoft.com/en-us/download/)
+DiDeMo [\[link\]](https://github.com/LisaAnne/TemporalLanguageRelease)
+COCO [\[link\]](https://cocodataset.org/\#home)
+
+##### Event Analysis Application
+Amazon [\[link\]](https://github.com/ant-research/EasyTemporalPointProcess)
+Taobao [\[link\]](https://github.com/ant-research/EasyTemporalPointProcess)
+Retweet [\[link\]](https://github.com/ant-research/EasyTemporalPointProcess)
+StackOverflow [\[link\]](https://github.com/ant-research/EasyTemporalPointProcess)
+Taxi [\[link\]](https://github.com/ant-research/EasyTemporalPointProcess)
+
+##### Other General Application
+ETT [\[link\]](https://github.com/zhouhaoyi/ETDataset)
+M4 [\[link\]](https://github.com/Mcompetitions/M4-methods)
+Electricity [\[link\]](https://archive.ics.uci.edu/dataset/235/individual+household+electric+power+consumption)
+Alibaba Cluster Trace [\[link\]](https://github.com/alibaba/clusterdata)
+TSSB [\[link\]](https://github.com/ermshaua/time-series-segmentation-benchmark)
+UCR TS Classification Archive [\[link\]](https://www.cs.ucr.edu/~eamonn/time_series_data_2018/)
+
 ## Related Surveys
 #### Surveys of Time Series
 * Transformers in Time Series: A Survey, in *IJCAI* 2023. [\[paper\]](https://arxiv.org/abs/2202.07125) [\[GitHub Repo\]](https://github.com/qingsongedu/time-series-transformers-review)
