@@ -172,10 +172,11 @@ For general **AI for Time Series (AI4TS)** Papers, Tutorials, and Surveys at the
 * A Survey of AIOps Methods for Failure Management, in *TIST* 2021. [\[paper\]](https://jorge-cardoso.github.io/publications/Papers/JA-2021-025-Survey_AIOps_Methods_for_Failure_Management.pdf)
 * AI for IT Operations (AIOps) on Cloud Platforms: Reviews, Opportunities and Challenges, in *arXiv* 2023. [\[paper\]](https://arxiv.org/abs/2304.04661)
 
+
 #### LLM/LM/FM Papers for AIOps
 * Empowering Practical Root Cause Analysis by Large Language Models for Cloud Incidents, in *arXiv* 2023. [\[paper\]](https://arxiv.org/abs/2305.15778)
 * Recommending Root-Cause and Mitigation Steps for Cloud Incidents using Large Language Models, in *arXiv* 2023. [\[paper\]](https://arxiv.org/abs/2301.03797)
-
+* OpsEval: A Comprehensive Task-Oriented AIOps Benchmark for Large Language Models, in *arXiv* 2023. [\[paper\]](https://arxiv.org/abs/2310.07637)
 
 ## Citation
 #### If you find this repository helpful for your work, please kindly cite:
