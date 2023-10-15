@@ -23,7 +23,6 @@ For general **AI for Time Series (AI4TS)** Papers, Tutorials, and Surveys at the
 * TEST: Text Prototype Aligned Embedding to Activate LLM's Ability for Time Series, in *arXiv* 2023, [\[paper\]](https://arxiv.org/abs/2308.08241)
 * LLM4TS: Two-Stage Fine-Tuning for Time-Series Forecasting with Pre-Trained LLMs, in *arXiv* 2023, [\[paper\]](https://arxiv.org/abs/2308.08469)
 * PromptCast: A New Prompt-based Learning Paradigm for Time Series Forecasting, in *arXiv* 2022. [\[paper\]](https://arxiv.org/abs/2210.08964)
-  
 * One Fits All: Power General Time Series Analysis by Pretrained LM, in *NeurIPS* 2023, [\[paper\]](https://arxiv.org/abs/2302.11939) [\[official code\]](https://github.com/DAMO-DI-ML/NeurIPS2023-One-Fits-All)
 * Large Language Models Are Zero-Shot Time Series Forecasters, in *NeurIPS* 2023, [\[paper\]](https://arxiv.org/abs/2310.07820) [\[official code\]](https://github.com/ngruver/llmtime)
 
@@ -77,30 +76,7 @@ For general **AI for Time Series (AI4TS)** Papers, Tutorials, and Surveys at the
 * Pangu-Weather: A 3D High-Resolution Model for Fast and Accurate Global Weather Forecast, in *arXiv* 2022. [\[paper\]](https://arxiv.org/abs/2211.02556)
 * GraphCast: Learning skillful medium-range global weather forecasting, in *arXiv* 2022. [\[paper\]](https://arxiv.org/abs/2212.12794)
 * FourCastNet: A Global Data-driven High-resolution Weather Model using Adaptive Fourier Neural Operator, in *arXiv* 2022. [\[paper\]](https://arxiv.org/abs/2202.11214)
- 
 
-## LLM/LM/FM Papers for AIOps
-* Empowering Practical Root Cause Analysis by Large Language Models for Cloud Incidents, in *arXiv* 2023. [\[paper\]](https://arxiv.org/abs/2305.15778)
-* Recommending Root-Cause and Mitigation Steps for Cloud Incidents using Large Language Models, in *arXiv* 2023. [\[paper\]](https://arxiv.org/abs/2301.03797)
-
-
-## Related LLM/LM/FM Resources
-#### Survey
-* A Survey of Large Language Models, in *arXiv* 2023. [\[paper\]](https://arxiv.org/abs/2303.18223) [\[link\]](https://github.com/RUCAIBox/LLMSurvey)
-* Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond, in *arXiv* 2023. [\[paper\]](https://arxiv.org/abs/2304.13712) [\[link\]](https://github.com/Mooler0410/LLMsPracticalGuide)  
-* LLM-Adapters: An Adapter Family for Parameter-Efficient Fine-Tuning of Large Language Models, in *arXiv* 2023. [\[paper\]](https://arxiv.org/abs/2304.01933) [\[link\]](https://github.com/AGI-Edgerunners/LLM-Adapters)
-* Beyond One-Model-Fits-All: A Survey of Domain Specialization for Large Language Models, in *arXiv* 2023. [\[paper\]](https://arxiv.org/abs/2305.18703)
-* Large AI Models in Health Informatics: Applications, Challenges, and the Future, in *arXiv* 2023. [\[paper\]](https://arxiv.org/abs/2303.11568) [\[link\]](https://github.com/Jianing-Qiu/Awesome-Healthcare-Foundation-Models)
-* FinGPT: Open-Source Financial Large Language Models, in *arXiv* 2023. [\[paper\]](https://arxiv.org/abs/2306.06031) [\[link\]](https://github.com/AI4Finance-Foundation/FinGPT) 
-* On the Opportunities and Challenges of Foundation Models for Geospatial Artificial Intelligence, in *arXiv* 2023. [\[paper\]](https://arxiv.org/abs/2304.06798)
-
-#### Github
-* Awesome LLM. [\[link\]](https://github.com/Hannibal046/Awesome-LLM)
-* Open LLMs. [\[link\]](https://github.com/eugeneyan/open-llms)
-* Awesome LLMOps. [\[link\]](https://github.com/tensorchord/Awesome-LLMOps)
-* Awesome Foundation Models. [\[link\]](https://github.com/uncbiag/Awesome-Foundation-Models)
-* Awesome Graph LLM. [\[link\]](https://github.com/XiaoxinHe/Awesome-Graph-LLM)
-* Awesome Multimodal Large Language Models. [\[link\]](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)
 
 #### Datasets
 ##### Traffic Application
@@ -159,8 +135,28 @@ For general **AI for Time Series (AI4TS)** Papers, Tutorials, and Surveys at the
 * Alibaba Cluster Trace [\[link\]](https://github.com/alibaba/clusterdata)
 * TSSB [\[link\]](https://github.com/ermshaua/time-series-segmentation-benchmark)
 * UCR TS Classification Archive [\[link\]](https://www.cs.ucr.edu/~eamonn/time_series_data_2018/)
+ 
 
-## Related Surveys
+
+## Related LLM/LM/FM Resources
+#### Survey
+* A Survey of Large Language Models, in *arXiv* 2023. [\[paper\]](https://arxiv.org/abs/2303.18223) [\[link\]](https://github.com/RUCAIBox/LLMSurvey)
+* Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond, in *arXiv* 2023. [\[paper\]](https://arxiv.org/abs/2304.13712) [\[link\]](https://github.com/Mooler0410/LLMsPracticalGuide)  
+* LLM-Adapters: An Adapter Family for Parameter-Efficient Fine-Tuning of Large Language Models, in *arXiv* 2023. [\[paper\]](https://arxiv.org/abs/2304.01933) [\[link\]](https://github.com/AGI-Edgerunners/LLM-Adapters)
+* Beyond One-Model-Fits-All: A Survey of Domain Specialization for Large Language Models, in *arXiv* 2023. [\[paper\]](https://arxiv.org/abs/2305.18703)
+* Large AI Models in Health Informatics: Applications, Challenges, and the Future, in *arXiv* 2023. [\[paper\]](https://arxiv.org/abs/2303.11568) [\[link\]](https://github.com/Jianing-Qiu/Awesome-Healthcare-Foundation-Models)
+* FinGPT: Open-Source Financial Large Language Models, in *arXiv* 2023. [\[paper\]](https://arxiv.org/abs/2306.06031) [\[link\]](https://github.com/AI4Finance-Foundation/FinGPT) 
+* On the Opportunities and Challenges of Foundation Models for Geospatial Artificial Intelligence, in *arXiv* 2023. [\[paper\]](https://arxiv.org/abs/2304.06798)
+
+#### Github
+* Awesome LLM. [\[link\]](https://github.com/Hannibal046/Awesome-LLM)
+* Open LLMs. [\[link\]](https://github.com/eugeneyan/open-llms)
+* Awesome LLMOps. [\[link\]](https://github.com/tensorchord/Awesome-LLMOps)
+* Awesome Foundation Models. [\[link\]](https://github.com/uncbiag/Awesome-Foundation-Models)
+* Awesome Graph LLM. [\[link\]](https://github.com/XiaoxinHe/Awesome-Graph-LLM)
+* Awesome Multimodal Large Language Models. [\[link\]](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)
+
+## Related Resources
 #### Surveys of Time Series
 * Transformers in Time Series: A Survey, in *IJCAI* 2023. [\[paper\]](https://arxiv.org/abs/2202.07125) [\[GitHub Repo\]](https://github.com/qingsongedu/time-series-transformers-review)
 * Time series data augmentation for deep learning: a survey, in *IJCAI* 2021. [\[paper\]](https://arxiv.org/abs/2002.12478)
@@ -175,6 +171,11 @@ For general **AI for Time Series (AI4TS)** Papers, Tutorials, and Surveys at the
 * AIOps: real-world challenges and research innovations, in *ICSE* 2019. [\[paper\]](https://web.eecs.umich.edu/~ryanph/paper/aiops-icse19-briefing.pdf)
 * A Survey of AIOps Methods for Failure Management, in *TIST* 2021. [\[paper\]](https://jorge-cardoso.github.io/publications/Papers/JA-2021-025-Survey_AIOps_Methods_for_Failure_Management.pdf)
 * AI for IT Operations (AIOps) on Cloud Platforms: Reviews, Opportunities and Challenges, in *arXiv* 2023. [\[paper\]](https://arxiv.org/abs/2304.04661)
+
+#### LLM/LM/FM Papers for AIOps
+* Empowering Practical Root Cause Analysis by Large Language Models for Cloud Incidents, in *arXiv* 2023. [\[paper\]](https://arxiv.org/abs/2305.15778)
+* Recommending Root-Cause and Mitigation Steps for Cloud Incidents using Large Language Models, in *arXiv* 2023. [\[paper\]](https://arxiv.org/abs/2301.03797)
+
 
 ## Citation
 #### If you find this repository helpful for your work, please kindly cite:
