@@ -18,10 +18,17 @@ For general **AI for Time Series (AI4TS)** Papers, Tutorials, and Surveys at the
 
 ## LLMs for Time Series
 #### General Time Series Analysis
-* PromptCast: A New Prompt-based Learning Paradigm for Time Series Forecasting, in *arXiv* 2023. [\[paper\]](https://arxiv.org/abs/2210.08964)
-* One Fits All:Power General Time Series Analysis by Pretrained LM, in *NeurIPS* 2023, [\[paper\]](https://arxiv.org/abs/2302.11939) [\[official code\]](https://github.com/DAMO-DI-ML/NeurIPS2023-One-Fits-All)
 * Time-LLM: Time Series Forecasting by Reprogramming Large Language Models, in *arXiv* 2023, [\[paper\]](https://arxiv.org/abs/2310.01728)
+* TEMPO: Prompt-based Generative Pre-trained Transformer for Time Series Forecasting, in *arXiv* 2023, [\[paper\]](https://arxiv.org/abs/2310.04948)
+* TEST: Text Prototype Aligned Embedding to Activate LLM's Ability for Time Series, in *arXiv* 2023, [\[paper\]](https://arxiv.org/abs/2308.08241)
 * LLM4TS: Two-Stage Fine-Tuning for Time-Series Forecasting with Pre-Trained LLMs, in *arXiv* 2023, [\[paper\]](https://arxiv.org/abs/2308.08469)
+* PromptCast: A New Prompt-based Learning Paradigm for Time Series Forecasting, in *arXiv* 2022. [\[paper\]](https://arxiv.org/abs/2210.08964)
+  
+* One Fits All: Power General Time Series Analysis by Pretrained LM, in *NeurIPS* 2023, [\[paper\]](https://arxiv.org/abs/2302.11939) [\[official code\]](https://github.com/DAMO-DI-ML/NeurIPS2023-One-Fits-All)
+* Large Language Models Are Zero-Shot Time Series Forecasters, in *NeurIPS* 2023, [\[paper\]](https://arxiv.org/abs/2310.07820) [\[official code\]](https://github.com/ngruver/llmtime)
+
+
+  
 #### Transportation Application
 * Leveraging Language Foundation Models for Human Mobility Forecasting, in *SIGSPATIAL* 2022, [\[paper\]](https://arxiv.org/abs/2209.05479)
 #### Finance Application
