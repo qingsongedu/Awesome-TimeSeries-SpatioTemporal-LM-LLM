@@ -44,6 +44,7 @@ For general **AI for Time Series (AI4TS)** Papers, Tutorials, and Surveys at the
 
   
 #### Transportation Application
+* Where Would I Go Next? Large Language Models as Human Mobility Predictors, in *arXiv* 2023, [\[paper\]](https://arxiv.org/abs/2308.15197)
 * Leveraging Language Foundation Models for Human Mobility Forecasting, in *SIGSPATIAL* 2022, [\[paper\]](https://arxiv.org/abs/2209.05479)
 #### Finance Application
 * Temporal Data Meets LLM -- Explainable Financial Time Series Forecasting, in *arXiv* 2023, [\[paper\]](https://arxiv.org/abs/2306.11025)
