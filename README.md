@@ -1,5 +1,4 @@
-# Large (Language) Models and Foundation Models (LLM, LM, FM) for Time Series and SpatioTemporal Data
-
+# Large (Language) Models and Foundation Models (LLM, LM, FM) for Time Series and Spatio-Temporal Data
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
 ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green) 
@@ -8,13 +7,22 @@
 <!-- ![Forks](https://img.shields.io/github/forks/qingsongedu/Awesome-TimeSeries-AIOps-LM-LLM) -->
 
 
-A professionally curated list of **Large (Language) Models and Foundation Models (LLM, LM, FM) for Temporal Data (Time Series, Spatiotemporal, and Event Data)** with awesome resources (paper, code, data, etc.), which aims to comprehensively and systematically summarize the recent advances to the best of our knowledge.
+A professionally curated list of **Large (Language) Models and Foundation Models (LLM, LM, FM) for Temporal Data (Time Series, Spatio-temporal, and Event Data)** with awesome resources (paper, code, data, etc.), which aims to comprehensively and systematically summarize the recent advances to the best of our knowledge.
 
 We will continue to update this list with the newest resources. If you find any missed resources (paper/code) or errors, please feel free to open an issue or make a pull request.
 
 For general **AI for Time Series (AI4TS)** Papers, Tutorials, and Surveys at the **Top AI Conferences and Journals**, please check [This Repo](https://github.com/qingsongedu/awesome-AI-for-time-series-papers). 
 
+🌟 If you find this resource helpful, please consider to star this repository and cite our survey paper:
 
+```
+@article{jin2023survey,
+  title={Large Models for Time Series and Spatio-Temporal Data: A Survey and Outlook}, 
+  author={Ming Jin and Qingsong Wen and Yuxuan Liang and Chaoli Zhang and Siqiao Xue and Xue Wang and James Zhang and Yi Wang and Haifeng Chen and Xiaoli Li and Shirui Pan and Vincent S. Tseng and Yu Zheng and Lei Chen and Hui Xiong},
+  journal={arXiv preprint arXiv:2310.10196},
+  year={2023}
+}
+```
 
 ## LLMs for Time Series
 #### General Time Series Analysis
@@ -182,10 +190,10 @@ For general **AI for Time Series (AI4TS)** Papers, Tutorials, and Surveys at the
 #### If you find this repository helpful for your work, please kindly cite:
 
 ```bibtex
-@misc{wen2023llmfortimeseriesaiops,
-  title={Awesome-TimeSeries-SpatioTemporal-LM-LLM},
-  author={Wen, Qingsong},
-  journal = {GitHub repository},
+@article{jin2023survey,
+  title={Large Models for Time Series and Spatio-Temporal Data: A Survey and Outlook}, 
+  author={Ming Jin and Qingsong Wen and Yuxuan Liang and Chaoli Zhang and Siqiao Xue and Xue Wang and James Zhang and Yi Wang and Haifeng Chen and Xiaoli Li and Shirui Pan and Vincent S. Tseng and Yu Zheng and Lei Chen and Hui Xiong},
+  journal={arXiv preprint arXiv:2310.10196},
   year={2023}
 }
 ```
