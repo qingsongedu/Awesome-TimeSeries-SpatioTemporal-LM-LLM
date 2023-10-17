@@ -13,10 +13,17 @@ We will continue to update this list with the newest resources. If you find any 
 
 For general **AI for Time Series (AI4TS)** Papers, Tutorials, and Surveys at the **Top AI Conferences and Journals**, please check [This Repo](https://github.com/qingsongedu/awesome-AI-for-time-series-papers). 
 
+
+## Survey paper
+
+[**Large Models for Time Series and Spatio-Temporal Data: A Survey and Outlook**](https://arxiv.org/abs/2310.10196)  
+
+**Authors**: Ming Jin, Qingsong Wen, Yuxuan Liang, Chaoli Zhang, Siqiao Xue, Xue Wang, James Zhang, Yi Wang, Haifeng Chen, Xiaoli Li, Shirui Pan, Vincent S. Tseng (IEEE Fellow), Yu Zheng (IEEE Fellow), Lei Chen (IEEE Fellow), Hui Xiong (IEEE Fellow)
+
 🌟 If you find this resource helpful, please consider to star this repository and cite our survey paper:
 
 ```
-@article{jin2023survey,
+@article{jin2023lm4tssurvey,
   title={Large Models for Time Series and Spatio-Temporal Data: A Survey and Outlook}, 
   author={Ming Jin and Qingsong Wen and Yuxuan Liang and Chaoli Zhang and Siqiao Xue and Xue Wang and James Zhang and Yi Wang and Haifeng Chen and Xiaoli Li and Shirui Pan and Vincent S. Tseng and Yu Zheng and Lei Chen and Hui Xiong},
   journal={arXiv preprint arXiv:2310.10196},
