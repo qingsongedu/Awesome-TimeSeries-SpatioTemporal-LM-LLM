@@ -49,7 +49,7 @@ For general **AI for Time Series (AI4TS)** Papers, Tutorials, and Surveys at the
 #### Finance Application
 * Temporal Data Meets LLM -- Explainable Financial Time Series Forecasting, in *arXiv* 2023, [\[paper\]](https://arxiv.org/abs/2306.11025)
 * BloombergGPT: A Large Language Model for Finance, in *arXiv* 2023, [\[paper\]](https://arxiv.org/abs/2303.17564)
-* WeaverBird: Empowering Financial Decision-Making with Large Language Model, Knowledge Base, and Search Engine, in *arXiv* 2023, [\[paper\]](https://arxiv.org/abs/2308.05361)
+* WeaverBird: Empowering Financial Decision-Making with Large Language Model, Knowledge Base, and Search Engine, in *arXiv* 2023, [\[paper\]](https://arxiv.org/abs/2308.05361)[\[official-code\]](https://github.com/ant-research/fin_domain_llm)
 * Can ChatGPT Forecast Stock Price Movements? Return Predictability and Large Language Models, in *arXiv* 2023, [\[paper\]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4412788)
 * Instruct-FinGPT: Financial Sentiment Analysis by Instruction Tuning of General-Purpose Large Language Models, in *arXiv* 2023, [\[paper\]](https://arxiv.org/abs/2306.12659)
 * The Wall Street Neophyte: A Zero-Shot Analysis of ChatGPT Over MultiModal Stock Movement Prediction Challenges, in *arXiv* 2023, [\[paper\]](https://arxiv.org/abs/2304.05351)
