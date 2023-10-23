@@ -79,19 +79,56 @@ For general **AI for Time Series (AI4TS)** Papers, Tutorials, and Surveys at the
 #### Event Analysis 
 * Prompt-augmented Temporal Point Process for Streaming Event Sequence, in *NeurIPS* 2023, [\[paper\]](https://arxiv.org/pdf/2310.04993.pdf) [\[official code\]](https://github.com/yanyanSann/PromptTPP)
 
-## LLMs for Spatio-Temporal Data
-#### 
+## LLMs for Spatio-Temporal Graphs
+* Language knowledge-Assisted Representation Learning for Skeleton-based Action Recognition, in *arXiv* 2023. [\[paper\]](https://arxiv.org/pdf/2305.12398.pdf)
+* Chatgpt-Informed Graph Neural Network for Stock Movement Prediction, in *arXiv* 2023. [\[paper\]](https://arxiv.org/pdf/2306.03763.pdf)
 
+## PFMs for Spatio-Temporal Graphs
+#### General Purposes
+* When do Contrastive Learning Signals help Spatio-Temporal Graph Forecasting? in *SIGSPATIAL* 2023. [\[paper\]](https://arxiv.org/pdf/2108.11873.pdf)
+* Mining Spatio-Temporal Relations via Self-Paced Graph Contrastive Learning, in *KDD* 2022. [\[paper\]](https://dl.acm.org/doi/pdf/10.1145/3534678.3539422)
 
-
-#### 
-
-#### Weather Forecasting
-* Accurate medium-range global weather forecasting with 3D neural networks, in *Nature* 2023. [\[paper\]](https://www.nature.com/articles/s41586-023-06185-3)
-* ClimaX: A foundation model for weather and climate, in *ICML* 2023. [\[paper\]](https://arxiv.org/abs/2301.10343) [\[official code\]](https://github.com/microsoft/ClimaX)
-* FengWu: Pushing the Skillful Global Medium-range Weather Forecast beyond 10 Days Lead, in *arXiv* 2023. [\[paper\]](https://arxiv.org/abs/2304.02948)
-* GraphCast: Learning skillful medium-range global weather forecasting, in *arXiv* 2022. [\[paper\]](https://arxiv.org/abs/2212.12794)
+#### Climate
+* Accurate Medium-Range Global Weather Forecasting with 3D Neural Networks, in *Nature* 2023. [\[paper\]](https://www.nature.com/articles/s41586-023-06185-3)
+* ClimaX: A Foundation Model for Weather and Climate, in *ICML* 2023. [\[paper\]](https://arxiv.org/abs/2301.10343) [\[official code\]](https://github.com/microsoft/ClimaX)
+* GraphCast: Learning Skillful Medium-Range Global Weather Forecasting, in *arXiv* 2022. [\[paper\]](https://arxiv.org/abs/2212.12794)
 * FourCastNet: A Global Data-driven High-resolution Weather Model using Adaptive Fourier Neural Operator, in *arXiv* 2022. [\[paper\]](https://arxiv.org/abs/2202.11214)
+* Accurate Medium-Range Global Weather Forecasting with 3d Neural Networks, in *Nature* 2023. [\[paper\]](https://www.nature.com/articles/s41586-023-06185-3)
+* W-MAE: Pre-Trained Weather Model with Masked Autoencoder for Multi-Variable Weather Forecasting, in *arXiv* 2023. [\[paper\]](https://arxiv.org/pdf/2304.08754.pdf)
+* FengWu: Pushing the Skillful Global Medium-range Weather Forecast beyond 10 Days Lead, in *arXiv* 2023. [\[paper\]](https://arxiv.org/abs/2304.02948)
+
+
+#### Transportation
+* Pre-trained Bidirectional Temporal Representation for Crowd Flows Prediction in Regular Region, in *IEEE Access* 2019. [\[paper\]](https://ieeexplore.ieee.org/document/8854786)
+* Trafficbert: Pretrained Model with Large-Scale Data for Long-Range Traffic Flow Forecasting, in *Expert Systems with Applications* 2021. [\[paper\]](https://www.sciencedirect.com/science/article/abs/pii/S0957417421011179)
+* Building Transportation Foundation Model via Generative Graph Transformer, in *arXiv* 2023. [\[paper\]](https://arxiv.org/pdf/2305.14826.pdf)
+
+## LLMs for Video Data
+* Zero-shot Video Question Answering via Frozen Bidirectional Language Models, in *NeurIPS* 2022. [\[paper\]](https://arxiv.org/pdf/2206.08155.pdf)
+* Language Models with Image Descriptors are Strong Few-Shot Video-Language Learners, in *NeurIPS* 2022. [\[paper\]](https://arxiv.org/pdf/2205.10747.pdf)
+* VideoLLM: Modeling Video Sequence with Large Language Models, in *arXiv* 2023. [\[paper\]](https://arxiv.org/pdf/2305.13292.pdf)
+* VALLEY: Viode Assitant with Large Language Model Enhanced Ability, in *arXiv* 2023. [\[paper\]](https://arxiv.org/pdf/2306.07207.pdf)
+* Vid2Seq: Large-Scale Pretraining of a Visual Language Model for Dense Video Captioning, in *CVPR* 2023. [\[paper\]](https://arxiv.org/pdf/2302.14115.pdf)
+* Retrieving-to-Answer: Zero-Shot Video Question Answering with Frozen Large Language Models, in *NeurIPS* 2022. [\[paper\]](https://openreview.net/pdf?id=9uRS5ysgb9)
+* VideoChat: Chat-Centric Video Understanding, in *arXiv* 2023. [\[paper\]](https://arxiv.org/pdf/2305.06355.pdf)
+* MovieChat: From Dense Token to Sparse Memory for Long Video Understanding, in *arXiv* 2023. [\[paper\]](https://arxiv.org/pdf/2307.16449.pdf)
+* Language Models are Causal Knowledge Extractors for Zero-shot Video Question Answering, in *CVPR* 2023.  [\[paper\]](https://openaccess.thecvf.com/content/CVPR2023W/L3D-IVU/papers/Su_Language_Models_Are_Causal_Knowledge_Extractors_for_Zero-Shot_Video_Question_CVPRW_2023_paper.pdf)
+* Video-LLaMA: An Instruction-tuned Audio-Visual Language Model for Video Understanding, in *arXiv* 2023. [\[paper\]](https://arxiv.org/pdf/2306.02858.pdf)
+* Learning Video Representations from Large Language Models, in *CVPR* 2023. 
+[\[paper\]](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhao_Learning_Video_Representations_From_Large_Language_Models_CVPR_2023_paper.pdf)
+* Video-ChatGPT: Towards Detailed Video Understanding via Large Vision and Language Models, in *arXiv* 2023. [\[paper\]](https://arxiv.org/pdf/2306.05424.pdf)
+* Traffic-Domain Video Question Answering with Automatic Captioning, in *arXiv* 2023. [\[paper\]](https://arxiv.org/pdf/2307.09636.pdf)
+* LAVENDER: Unifying Video-Language Understanding as Masked Language Modeling, in *CVPR* 2023. [\[paper\]](https://openaccess.thecvf.com/content/CVPR2023/papers/Li_LAVENDER_Unifying_Video-Language_Understanding_As_Masked_Language_Modeling_CVPR_2023_paper.pdf)
+
+## PFMs for Video Data
+* OmniVL: One Foundation Model for Image-Language and Video-Language Tasks, in *NeurIPS* 2022. [\[paper\]](https://openreview.net/pdf?id=u4ihlSG240n)
+* Youku-mPLUG: A 10 Million Large-scale Chinese Video-Language Dataset for Pre-training and Benchmarks, in *arXiv* 2023. [\[paper\]](https://arxiv.org/pdf/2306.04362.pdf)
+* PAXION: Patching Action Knowledge in Video-Language Foundation Models, in *arXiv* 2023. [\[paper\]](https://arxiv.org/pdf/2305.10683.pdf)
+* mPLUG-2: A Modularized Multi-modal Foundation Model Across Text, Image and Video, in *ICML* 2023. [\[paper\]](https://openreview.net/pdf?id=DSOmy0ScK6)
+
+
+
+
 
 
 #### Datasets
@@ -163,6 +200,7 @@ For general **AI for Time Series (AI4TS)** Papers, Tutorials, and Surveys at the
 * Large AI Models in Health Informatics: Applications, Challenges, and the Future, in *arXiv* 2023. [\[paper\]](https://arxiv.org/abs/2303.11568) [\[link\]](https://github.com/Jianing-Qiu/Awesome-Healthcare-Foundation-Models)
 * FinGPT: Open-Source Financial Large Language Models, in *arXiv* 2023. [\[paper\]](https://arxiv.org/abs/2306.06031) [\[link\]](https://github.com/AI4Finance-Foundation/FinGPT) 
 * On the Opportunities and Challenges of Foundation Models for Geospatial Artificial Intelligence, in *arXiv* 2023. [\[paper\]](https://arxiv.org/abs/2304.06798)
+
 
 #### Github
 * Awesome LLM. [\[link\]](https://github.com/Hannibal046/Awesome-LLM)
