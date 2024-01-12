@@ -33,6 +33,7 @@ For general **AI for Time Series (AI4TS)** Papers, Tutorials, and Surveys at the
 
 ## LLMs for Time Series
 #### General Time Series Analysis
+* Tiny Time Mixers (TTMs): Fast Pretrained Models for Enhanced Zero/Few-Shot Forecasting of Multivariate Time Series , in *arXiv* 2023, [\[paper\]](https://arxiv.org/abs/2401.03955)
 * Time-LLM: Time Series Forecasting by Reprogramming Large Language Models, in *arXiv* 2023, [\[paper\]](https://arxiv.org/abs/2310.01728)
 * TEMPO: Prompt-based Generative Pre-trained Transformer for Time Series Forecasting, in *arXiv* 2023, [\[paper\]](https://arxiv.org/abs/2310.04948)
 * TEST: Text Prototype Aligned Embedding to Activate LLM's Ability for Time Series, in *arXiv* 2023, [\[paper\]](https://arxiv.org/abs/2308.08241)
