@@ -18,7 +18,7 @@ For general **AI for Time Series (AI4TS)** Papers, Tutorials, and Surveys at the
 
 [**Large Models for Time Series and Spatio-Temporal Data: A Survey and Outlook**](https://arxiv.org/abs/2310.10196)  
 
-**Authors**: Ming Jin, Qingsong Wen*, Yuxuan Liang, Chaoli Zhang, Siqiao Xue, Xue Wang, James Zhang, Yi Wang, Haifeng Chen, Xiaoli Li, Shirui Pan*, Vincent S. Tseng (IEEE Fellow), Yu Zheng (IEEE Fellow), Lei Chen (IEEE Fellow), Hui Xiong (IEEE Fellow)
+**Authors**: Ming Jin, Qingsong Wen*, Yuxuan Liang, Chaoli Zhang, Siqiao Xue, Xue Wang, James Zhang, Yi Wang, Haifeng Chen, Xiaoli Li (IEEE Fellow), Shirui Pan*, Vincent S. Tseng (IEEE Fellow), Yu Zheng (IEEE Fellow), Lei Chen (IEEE Fellow), Hui Xiong (IEEE Fellow)
 
 🌟 If you find this resource helpful, please consider to star this repository and cite our survey paper:
 
@@ -33,12 +33,12 @@ For general **AI for Time Series (AI4TS)** Papers, Tutorials, and Surveys at the
 
 ## LLMs for Time Series
 #### General Time Series Analysis
-* Time-LLM: Time Series Forecasting by Reprogramming Large Language Models, in *arXiv* 2023, [\[paper\]](https://arxiv.org/abs/2310.01728)
-* TEMPO: Prompt-based Generative Pre-trained Transformer for Time Series Forecasting, in *arXiv* 2023, [\[paper\]](https://arxiv.org/abs/2310.04948)
-* TEST: Text Prototype Aligned Embedding to Activate LLM's Ability for Time Series, in *arXiv* 2023, [\[paper\]](https://arxiv.org/abs/2308.08241)
+* Time-LLM: Time Series Forecasting by Reprogramming Large Language Models, in *ICLR* 2024, [\[paper\]](https://arxiv.org/abs/2310.01728)
+* TEMPO: Prompt-based Generative Pre-trained Transformer for Time Series Forecasting, in *ICLR* 2024, [\[paper\]](https://arxiv.org/abs/2310.04948)
+* TEST: Text Prototype Aligned Embedding to Activate LLM's Ability for Time Series, in *ICLR* 2024, [\[paper\]](https://arxiv.org/abs/2308.08241)
 * LLM4TS: Two-Stage Fine-Tuning for Time-Series Forecasting with Pre-Trained LLMs, in *arXiv* 2023, [\[paper\]](https://arxiv.org/abs/2308.08469)
 * The first step is the hardest: Pitfalls of Representing and Tokenizing Temporal Data for Large Language Models, in *arXiv* 2023, [\[paper\]](https://arxiv.org/abs/2309.06236)
-* PromptCast: A New Prompt-based Learning Paradigm for Time Series Forecasting, in *arXiv* 2022. [\[paper\]](https://arxiv.org/abs/2210.08964)
+* PromptCast: A New Prompt-based Learning Paradigm for Time Series Forecasting, in *TKDE* 2023. [\[paper\]](https://arxiv.org/abs/2210.08964)
 * One Fits All: Power General Time Series Analysis by Pretrained LM, in *NeurIPS* 2023, [\[paper\]](https://arxiv.org/abs/2302.11939) [\[official code\]](https://github.com/DAMO-DI-ML/NeurIPS2023-One-Fits-All)
 * Large Language Models Are Zero-Shot Time Series Forecasters, in *NeurIPS* 2023, [\[paper\]](https://arxiv.org/abs/2310.07820) [\[official code\]](https://github.com/ngruver/llmtime)
 
