@@ -33,6 +33,7 @@ For general **AI for Time Series (AI4TS)** Papers, Tutorials, and Surveys at the
 
 ## LLMs for Time Series
 #### General Time Series Analysis
+* Position Paper: What Can Large Language Models Tell Us about Time Series Analysis, in *arXiv* 2024, [\[paper\]](https://arxiv.org/abs/2402.02713)
 * Time-LLM: Time Series Forecasting by Reprogramming Large Language Models, in *ICLR* 2024, [\[paper\]](https://arxiv.org/abs/2310.01728) [\[official code\]](https://github.com/KimMeen/Time-LLM)
 * TEMPO: Prompt-based Generative Pre-trained Transformer for Time Series Forecasting, in *ICLR* 2024, [\[paper\]](https://arxiv.org/abs/2310.04948)
 * TEST: Text Prototype Aligned Embedding to Activate LLM's Ability for Time Series, in *ICLR* 2024, [\[paper\]](https://arxiv.org/abs/2308.08241)
@@ -213,6 +214,8 @@ For general **AI for Time Series (AI4TS)** Papers, Tutorials, and Surveys at the
 
 ## Related Resources
 #### Surveys of Time Series
+* Self-Supervised Learning for Time Series Analysis: Taxonomy, Progress, and Prospects, in *arXiv* 2023. [\[paper\]](https://arxiv.org/abs/2306.10125) [\[Website\]](https://github.com/qingsongedu/Awesome-SSL4TS)
+* A Survey on Graph Neural Networks for Time Series: Forecasting, Classification, Imputation, and Anomaly Detection, in *arXiv* 2023. [\[paper\]](https://arxiv.org/abs/2307.03759) [\[Website\]](https://github.com/KimMeen/Awesome-GNN4TS)
 * Transformers in Time Series: A Survey, in *IJCAI* 2023. [\[paper\]](https://arxiv.org/abs/2202.07125) [\[GitHub Repo\]](https://github.com/qingsongedu/time-series-transformers-review)
 * Time series data augmentation for deep learning: a survey, in *IJCAI* 2021. [\[paper\]](https://arxiv.org/abs/2002.12478)
 * Time-series forecasting with deep learning: a survey, in *Philosophical Transactions of the Royal Society A* 2021. [\[paper\]](https://royalsocietypublishing.org/doi/full/10.1098/rsta.2020.0209)
