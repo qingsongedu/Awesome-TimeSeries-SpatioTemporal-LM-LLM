@@ -238,16 +238,6 @@ For general **AI for Time Series (AI4TS)** Papers, Tutorials, and Surveys at the
 * Recommending Root-Cause and Mitigation Steps for Cloud Incidents using Large Language Models, in *arXiv* 2023. [\[paper\]](https://arxiv.org/abs/2301.03797)
 * OpsEval: A Comprehensive Task-Oriented AIOps Benchmark for Large Language Models, in *arXiv* 2023. [\[paper\]](https://arxiv.org/abs/2310.07637)
 
-## Citation
-#### If you find this repository helpful for your work, please kindly cite:
-
-```bibtex
-@article{jin2023lm4ts,
-  title={Large Models for Time Series and Spatio-Temporal Data: A Survey and Outlook}, 
-  author={Ming Jin and Qingsong Wen and Yuxuan Liang and Chaoli Zhang and Siqiao Xue and Xue Wang and James Zhang and Yi Wang and Haifeng Chen and Xiaoli Li and Shirui Pan and Vincent S. Tseng and Yu Zheng and Lei Chen and Hui Xiong},
-  journal={arXiv preprint arXiv:2310.10196},
-  year={2023}
-}
 ```
 
 
