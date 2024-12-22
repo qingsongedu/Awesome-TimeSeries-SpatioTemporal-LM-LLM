@@ -34,8 +34,13 @@ For general **AI for Time Series (AI4TS)** Papers, Tutorials, and Surveys at the
 ## LLMs for Time Series
 #### General Time Series Analysis
 * Position Paper: What Can Large Language Models Tell Us about Time Series Analysis, in *ICML* 2024, [\[paper\]](https://arxiv.org/abs/2402.02713)
-* Time-FFM: Towards LM-Empowered Federated Foundation Model for Time Series Forecasting, *NeurIPS* 2024. [\[paper\]](https://arxiv.org/abs/2405.14252) 
+* Time-FFM: Towards LM-Empowered Federated Foundation Model for Time Series Forecasting, *NeurIPS* 2024. [\[paper\]](https://arxiv.org/abs/2405.14252)
 * Time-MMD: A New Multi-Domain Multimodal Dataset for Time Series Analysis, *NeurIPS* 2024. [\[paper\]](https://arxiv.org/abs/2406.08627) [\[official code\]](https://github.com/adityalab/time-mmd)
+* From News to Forecast: Integrating Event Analysis in LLM-Based Time Series Forecasting with Reflection, *NeurIPS* 2024. [\[paper\]](https://arxiv.org/abs/2409.17515) [\[official code\]](https://github.com/ameliawong1996/From_News_to_Forecast)
+* Autotimes: Autoregressive time series forecasters via large language models, *NeurIPS* 2024. [\[paper\]](https://arxiv.org/abs/2402.02370) [\[official code\]](https://github.com/thuml/AutoTimes)
+* S^2IP-LLM: Semantic Space Informed Prompt Learning with LLM for Time Series Forecasting, in *ICML* 2024, [\[paper\]](https://openreview.net/forum?id=qwQVV5R8Y7)
+* Multi-Patch Prediction: Adapting LLMs for Time Series Representation Learning, in *ICML* 2024, [\[paper\]](https://arxiv.org/abs/2402.04852) [\[official code\]](https://github.com/yxbian23/aLLM4TS)
+* TimeCMA: Towards LLM-Empowered Multivariate Time Series Forecasting via Cross-Modality Alignment, in *AAAI* 2025, [\[paper\]](https://arxiv.org/abs/2406.01638)
 * Time-LLM: Time Series Forecasting by Reprogramming Large Language Models, in *ICLR* 2024, [\[paper\]](https://arxiv.org/abs/2310.01728) [\[official code\]](https://github.com/KimMeen/Time-LLM)
 * TEMPO: Prompt-based Generative Pre-trained Transformer for Time Series Forecasting, in *ICLR* 2024, [\[paper\]](https://arxiv.org/abs/2310.04948)
 * TEST: Text Prototype Aligned Embedding to Activate LLM's Ability for Time Series, in *ICLR* 2024, [\[paper\]](https://arxiv.org/abs/2308.08241)
@@ -74,6 +79,10 @@ For general **AI for Time Series (AI4TS)** Papers, Tutorials, and Surveys at the
 ## PFMs for Time Series  
 ##### General Time Series Analysis
 * Time-MoE: Billion-Scale Time Series Foundation Models with Mixture of Experts, *arXiv* 2024, [\[paper\]](https://arxiv.org/abs/2409.16040) [\[official code\]](https://github.com/time-moe/time-moe)
+* Unified training of universal time series forecasting transformers, in *ICML* 2024, [\[paper\]](https://arxiv.org/abs/2402.02592) [\[official code\]](https://github.com/SalesforceAIResearch/uni2ts) 
+* Moment: A family of open time-series foundation models, in *ICML* 2024, [\[paper\]](https://arxiv.org/abs/2402.03885) [\[official code\]](https://github.com/moment-timeseries-foundation-model/moment) 
+* A decoder-only foundation model for time-series forecasting, in *ICML* 2024, [\[paper\]](https://arxiv.org/abs/2310.10688) [\[official code\]](https://github.com/google-research/timesfm) 
+* Chronos: Learning the language of time series, in *TMLR* 2024, [\[paper\]](https://arxiv.org/abs/2403.07815) [\[official code\]](https://github.com/amazon-science/chronos-forecasting) 
 * SimMTM: A Simple Pre-Training Framework for Masked Time-Series Modeling, in *NeurIPS* 2023, [\[paper\]](https://arxiv.org/abs/2302.00861)
 * A Time Series is Worth 64 Words: Long-term Forecasting with Transformers, in *ICLR* 2023, [\[paper\]](https://arxiv.org/abs/2211.14730) [\[official code\]](https://github.com/yuqinie98/PatchTST)
 * Contrastive Learning for Unsupervised Domain Adaptation of Time Series, in *ICLR* 2023, [\[paper\]](https://arxiv.org/abs/2206.06243)
