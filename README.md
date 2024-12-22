@@ -33,7 +33,9 @@ For general **AI for Time Series (AI4TS)** Papers, Tutorials, and Surveys at the
 
 ## LLMs for Time Series
 #### General Time Series Analysis
-* Position Paper: What Can Large Language Models Tell Us about Time Series Analysis, in *arXiv* 2024, [\[paper\]](https://arxiv.org/abs/2402.02713)
+* Position Paper: What Can Large Language Models Tell Us about Time Series Analysis, in *ICML* 2024, [\[paper\]](https://arxiv.org/abs/2402.02713)
+* Time-FFM: Towards LM-Empowered Federated Foundation Model for Time Series Forecasting, *NeurIPS* 2024. [\[paper\]](https://arxiv.org/abs/2405.14252) 
+* Time-MMD: A New Multi-Domain Multimodal Dataset for Time Series Analysis, *NeurIPS* 2024. [\[paper\]](https://arxiv.org/abs/2406.08627) [\[official code\]](https://github.com/adityalab/time-mmd)
 * Time-LLM: Time Series Forecasting by Reprogramming Large Language Models, in *ICLR* 2024, [\[paper\]](https://arxiv.org/abs/2310.01728) [\[official code\]](https://github.com/KimMeen/Time-LLM)
 * TEMPO: Prompt-based Generative Pre-trained Transformer for Time Series Forecasting, in *ICLR* 2024, [\[paper\]](https://arxiv.org/abs/2310.04948)
 * TEST: Text Prototype Aligned Embedding to Activate LLM's Ability for Time Series, in *ICLR* 2024, [\[paper\]](https://arxiv.org/abs/2308.08241)
@@ -43,6 +45,7 @@ For general **AI for Time Series (AI4TS)** Papers, Tutorials, and Surveys at the
 * PromptCast: A New Prompt-based Learning Paradigm for Time Series Forecasting, in *TKDE* 2023. [\[paper\]](https://arxiv.org/abs/2210.08964)
 * One Fits All: Power General Time Series Analysis by Pretrained LM, in *NeurIPS* 2023, [\[paper\]](https://arxiv.org/abs/2302.11939) [\[official code\]](https://github.com/DAMO-DI-ML/NeurIPS2023-One-Fits-All)
 * Large Language Models Are Zero-Shot Time Series Forecasters, in *NeurIPS* 2023, [\[paper\]](https://arxiv.org/abs/2310.07820) [\[official code\]](https://github.com/ngruver/llmtime)
+* NuwaTS: a Foundation Model Mending Every Incomplete Time Series, in *arXiv* 2024, [\[paper\]](https://arxiv.org/abs/2405.15317)
 
 
   
@@ -70,6 +73,7 @@ For general **AI for Time Series (AI4TS)** Papers, Tutorials, and Surveys at the
 
 ## PFMs for Time Series  
 ##### General Time Series Analysis
+* Time-MoE: Billion-Scale Time Series Foundation Models with Mixture of Experts, *arXiv* 2024, [\[paper\]](https://arxiv.org/abs/2409.16040) [\[official code\]](https://github.com/time-moe/time-moe)
 * SimMTM: A Simple Pre-Training Framework for Masked Time-Series Modeling, in *NeurIPS* 2023, [\[paper\]](https://arxiv.org/abs/2302.00861)
 * A Time Series is Worth 64 Words: Long-term Forecasting with Transformers, in *ICLR* 2023, [\[paper\]](https://arxiv.org/abs/2211.14730) [\[official code\]](https://github.com/yuqinie98/PatchTST)
 * Contrastive Learning for Unsupervised Domain Adaptation of Time Series, in *ICLR* 2023, [\[paper\]](https://arxiv.org/abs/2206.06243)
